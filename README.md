@@ -1,12 +1,10 @@
 # DDoS Deflate
-Fork of DDoS Deflate http://deflate.medialayer.com/ with
+Fork of DDoS Deflate with
 fixes, improvements and new features.
 
 **Original Author:** Zaf <zaf@vsnl.com> (Copyright (C) 2005)
 
-**Maintainer:** Jefferson González <jgmdev@gmail.com>
-
-**Contributor (BSD support):** Marc S. Brooks <devel@mbrooks.info>
+**Contributor :** Nisankh <nisankh@outlook.in>
 
 ## About
 
