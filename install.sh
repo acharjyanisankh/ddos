@@ -174,7 +174,7 @@ echo; echo 'Installation has completed!'
 echo 'Config files are located at /etc/ddos/'
 echo
 echo 'Please send in your comments and/or suggestions to:'
-echo 'https://github.com/jgmdev/ddos-deflate/issues'
+echo 'nisankh@outlook.in'
 echo
 
 exit 0
