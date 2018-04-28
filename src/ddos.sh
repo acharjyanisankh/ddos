@@ -3,8 +3,7 @@
 # DDoS-Deflate version 0.9 Author: Zaf <zaf@vsnl.com>                        #
 ##############################################################################
 # Contributors:                                                              #
-# Jefferson González <jgmdev@gmail.com>                                      #
-# Marc S. Brooks <devel@mbrooks.info>                                        #
+# Nisankh <nisankh@outlook.in>                                               #
 ##############################################################################
 # This program is distributed under the "Artistic License" Agreement         #
 #                                                                            #
